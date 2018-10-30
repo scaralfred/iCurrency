@@ -1,6 +1,6 @@
 # iCurrency (Available on the App Store & Google Play Store)
 
-![alt text](https://lh3.googleusercontent.com/27o_OSxorOBNSBH8WCXU0INaoQsG0zU5XnK_xwPrZEW4tSOUHmYctPUQCd_b55FdkV8=s180-rw)
+![alt text](https://lh3.googleusercontent.com/p9KmyDQMDXz_sjcb9VIHmhPxeFjxh_SghAPxGYJMcIUekALA1p7kbMOq9DcrazRPDw=s180-rw)
 
 Goole Play Store => https://play.google.com/store/apps/details?id=com.currencyapp
 
