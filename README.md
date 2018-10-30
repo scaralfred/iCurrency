@@ -2,6 +2,8 @@
 
 ![alt text](https://lh3.googleusercontent.com/p9KmyDQMDXz_sjcb9VIHmhPxeFjxh_SghAPxGYJMcIUekALA1p7kbMOq9DcrazRPDw=s180-rw)
 
+App Store -> https://itunes.apple.com/us/app/currency-converter-icurrency/id1440368328?mt=8
+
 Goole Play Store => https://play.google.com/store/apps/details?id=com.currencyapp
 
 Stay up-to-date with the latest exchange rates and quickly compare over 170+ currencies in real time.
