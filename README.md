@@ -1,8 +1,8 @@
-# iCurrency (Available on Google Play Store)
+# iCurrency (Available on the App Store & Google Play Store)
 
 ![alt text](https://lh3.googleusercontent.com/27o_OSxorOBNSBH8WCXU0INaoQsG0zU5XnK_xwPrZEW4tSOUHmYctPUQCd_b55FdkV8=s180-rw)
 
-https://play.google.com/store/apps/details?id=com.currencyapp
+Goole Play Store => https://play.google.com/store/apps/details?id=com.currencyapp
 
 Stay up-to-date with the latest exchange rates and quickly compare over 170+ currencies in real time.
 iCurrency is a user friendly app with simple and minimalistic design, including all the essential functions for travel needs or simply monitoring foreign currencies trends as well as over 100+ crypto-currencies.
