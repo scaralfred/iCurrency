@@ -30,22 +30,35 @@ What are you waiting for? Download Currency Converter – Money & Crypto Exchang
 KEY FEATURES:
 
 • Rapid Currency Converter
+
 • Free and live Money Exchange Rates: 
+
 • Dollar, Pound, Euro, Australian Dollar, Canadian Dollar, Japanese yen, Chinese yuan...
 • USD, EUR, GBP, AUD, CAD, JPY, CNY...
-• Free Crypto Rates: 
-• Bitcoin, Ethereum, Bitcoin Cash, EOS, XRP, BitcoinCash, XRP, Litecoin, Dash, Zcash, etc.
+
+• Free Crypto Rates: Bitcoin, Ethereum, Bitcoin Cash, EOS, XRP, BitcoinCash, XRP, Litecoin, Dash, Zcash, etc.
 • BTC, ETH, EOS, XRP, BCH, LTC, DASH, ZCASH, etc.
+
 • Multi-currencies display
+
 • Over 170+ Currencies
+
 • Over 100+ CryptoCurrencies
+
 • Offline use
+
 • Real time rates update
+
 • Intuitive and simple design
+
 • Smart settings
+
 • Drag and move rows
+
 • Swipe to remove rows
+
 • Pull to refresh rates
+
 • Fast currency conversion
 
 
