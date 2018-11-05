@@ -31,11 +31,11 @@ KEY FEATURES:
 
 • Rapid Currency Converter
 • Free and live Money Exchange Rates: 
-- Dollar, Pound, Euro, Australian Dollar, Canadian Dollar, Japanese yen, Chinese yuan...
-- USD, EUR, GBP, AUD, CAD, JPY, CNY...
+• Dollar, Pound, Euro, Australian Dollar, Canadian Dollar, Japanese yen, Chinese yuan...
+• USD, EUR, GBP, AUD, CAD, JPY, CNY...
 • Free Crypto Rates: 
-- Bitcoin, Ethereum, Bitcoin Cash, EOS, XRP, BitcoinCash, XRP, Litecoin, Dash, Zcash, etc.
-- BTC, ETH, EOS, XRP, BCH, LTC, DASH, ZCASH, etc.
+• Bitcoin, Ethereum, Bitcoin Cash, EOS, XRP, BitcoinCash, XRP, Litecoin, Dash, Zcash, etc.
+• BTC, ETH, EOS, XRP, BCH, LTC, DASH, ZCASH, etc.
 • Multi-currencies display
 • Over 170+ Currencies
 • Over 100+ CryptoCurrencies
