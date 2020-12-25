@@ -64,4 +64,4 @@ KEY FEATURES:
 
 Do you have any questions or feedback?
 
-Contact: alfredoscarano87@gmail.com
+Contact: icurrency.feedback@gmail.com
